@@ -1,0 +1,29 @@
+{
+    "name": "ithing-main",
+    "version": "0.6.29",
+    "description": "AdaFruit ithing-main driver",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "ithing-main.ts",
+		"_locales/zh/core-strings.json",
+		"_locales/zh/core-jsdoc-strings.json"
+    ],
+	"icon": "icon.png",
+    "testFiles": [
+        "neotest.ts"
+    ],
+    "yotta": {
+        "config": {
+            "microbit-dal": {
+                "bluetooth": {
+                    "enabled": 0
+                }
+            }
+        }
+    },
+    "public": true
+}
