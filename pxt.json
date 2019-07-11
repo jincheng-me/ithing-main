@@ -9,8 +9,8 @@
     "files": [
         "README.md",
         "ithing-main.ts",
-        "_locales/zh/anxin-core-strings.json",
-        "_locales/zh/anxin-core-jsdoc-strings.json"
+        "_locales/zh/anxin-core-jsdoc-strings.json",
+		"_locales/zh/ithing-main-strings.json"
     ],
     "icon": "icon.png",
     "testFiles": [
