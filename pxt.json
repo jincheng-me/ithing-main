@@ -9,7 +9,7 @@
     "files": [
         "README.md",
         "ithing-main.ts",
-        "_locales/zh/anxin-core-jsdoc-strings.json",
+        "_locales/zh/ithing-main-jsdoc-strings.json",
 		"_locales/zh/ithing-main-strings.json"
     ],
     "icon": "icon.png",
