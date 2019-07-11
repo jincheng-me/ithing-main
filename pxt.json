@@ -1,7 +1,7 @@
 {
     "name": "ithing-main",
     "version": "0.6.29",
-    "description": "AdaFruit ithing-main driver",
+    "description": "Ithingedu`s expansion pack",
     "license": "MIT",
     "dependencies": {
         "core": "*"
@@ -9,7 +9,7 @@
     "files": [
         "README.md",
         "ithing-main.ts",
-        "_locales/zh/ithing-main-jsdoc-strings.json",
+        "_locales/zh/anxin-core-jsdoc-strings.json",
 		"_locales/zh/ithing-main-strings.json"
     ],
     "icon": "icon.png",
