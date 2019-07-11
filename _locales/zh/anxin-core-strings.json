@@ -62,6 +62,7 @@
   "{id:group}数码管显示": "数码管显示",
   "{id:group}温度传感器": "温度传感器",
   "{id:group}超声波传感器": "超声波传感器",
+  "{id:category}OLED12864_I2C": "显示屏",
 "{id:category}BMP180": "气压",
 	"OLED12864_I2C|block": "显示屏"
 }

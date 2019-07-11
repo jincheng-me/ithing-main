@@ -1053,7 +1053,7 @@ namespace OLED12864_I2C {
     //% weight=80 blockGap=8
     //% parts=OLED12864_I2C trackArgs=0
     export function showString(x: number, line: number, s: string) {
-		set_pos(x, line)
+		set_pos(x*8, line)
         for (let n = 0; n < s.length; n++) {
             for (let i = 0; i < 8; i++) {
 				_buf2[0]=0x40

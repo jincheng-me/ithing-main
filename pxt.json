@@ -9,10 +9,10 @@
     "files": [
         "README.md",
         "ithing-main.ts",
-		"_locales/zh/anxin-core-strings.json",
-		"_locales/zh/anxin-core-jsdoc-strings.json"
+        "_locales/zh/anxin-core-strings.json",
+        "_locales/zh/anxin-core-jsdoc-strings.json"
     ],
-	"icon": "icon.png",
+    "icon": "icon.png",
     "testFiles": [
         "neotest.ts"
     ],
