@@ -361,9 +361,9 @@ namespace anxinRGBLeds {
         //% parts="neopixel"
 		//% group="彩灯"
         showColor(rgb: number) {
-            rgb = rgb >> 0;
-            this.setAllRGB(rgb);
-            this.show();
+            // rgb = rgb >> 0;
+            // this.setAllRGB(rgb);
+            // this.show();
         }
 
         /**
