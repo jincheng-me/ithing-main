@@ -363,7 +363,7 @@ namespace anxinRGBLeds {
         showColor(rgb: number) {
             rgb = rgb >> 0;
             this.setAllRGB(rgb);
-            // this.show();
+            this.show();
         }
 
         /**
@@ -542,7 +542,7 @@ namespace anxinRGBLeds {
         //% parts="neopixel"
 		//% group="彩灯"
         show() {
-            ws2812b.sendBuffer(this.buf, this.pin);
+            //ws2812b.sendBuffer(this.buf, this.pin);
         }
 
         /**
